@@ -1,0 +1,6 @@
+{
+  "name": "Orca App Builder",
+  "description": "A modern, professional AI-powered platform to design, build, and deploy complete applications from natural language.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
